@@ -1,0 +1,7 @@
+#card:hover {
+    background-color: yellow;
+  }
+
+  #card{
+      transition: all 1s;
+  }
